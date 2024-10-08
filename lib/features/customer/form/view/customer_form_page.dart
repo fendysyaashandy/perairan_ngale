@@ -13,7 +13,6 @@ import 'package:perairan_ngale/shared/styles.dart';
 import 'package:perairan_ngale/widgets/custom_dropdown_field.dart';
 import 'package:perairan_ngale/utils/extensions.dart';
 import 'package:perairan_ngale/widgets/custom_button.dart';
-import 'package:perairan_ngale/widgets/custom_dropdown_field.dart';
 import 'package:perairan_ngale/widgets/custom_gesture_unfocus.dart';
 import 'package:perairan_ngale/widgets/custom_text_field.dart';
 import 'package:sizer/sizer.dart';

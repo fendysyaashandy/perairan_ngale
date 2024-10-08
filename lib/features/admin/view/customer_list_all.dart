@@ -8,10 +8,8 @@ import 'package:perairan_ngale/models/admin.dart';
 import 'package:perairan_ngale/models/customer.dart';
 import 'package:firebase_ui_firestore/firebase_ui_firestore.dart';
 import 'package:perairan_ngale/routes/router.dart';
-import 'package:perairan_ngale/shared/color_values.dart';
 import 'package:perairan_ngale/widgets/custom_button.dart';
 import 'package:perairan_ngale/widgets/custom_text_field.dart';
-import 'package:perairan_ngale/utils/extensions.dart';
 
 class CustomerListAll extends StatefulWidget {
   const CustomerListAll({super.key, required this.admin});

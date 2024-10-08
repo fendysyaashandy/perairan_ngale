@@ -1,13 +1,10 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:perairan_ngale/models/harga.dart';
-import 'package:perairan_ngale/models/transaksi.dart';
 import 'package:perairan_ngale/routes/router.dart';
-import 'package:perairan_ngale/shared/color_values.dart';
 import 'package:perairan_ngale/shared/styles.dart';
 import 'package:perairan_ngale/utils/extensions.dart';
 import 'package:perairan_ngale/widgets/custom_button.dart';
