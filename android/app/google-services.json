@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "886220999399",
+    "project_id": "perairan-ngale",
+    "storage_bucket": "perairan-ngale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886220999399:android:45d37881ffbf3d6dfcf042",
+        "android_client_info": {
+          "package_name": "com.example.perairan_ngale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886220999399-3192pahm7bg7dh500snh7e13p016qib7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgie_pCFKOcCtf6zL8Ch-qVdwpbcOPdUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886220999399-3192pahm7bg7dh500snh7e13p016qib7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886220999399-dt2h3hoekm2eme15ecfv3n4qjm7hnt1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.perairanNgale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
