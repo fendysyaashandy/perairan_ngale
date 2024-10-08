@@ -18,7 +18,6 @@ class AdminMenuPage extends StatefulWidget {
 
 class _AdminMenuPageState extends State<AdminMenuPage> {
   final User? user = Auth().currentUser;
-  Admin? _admin;
   Future<Admin> getAdmin(String userId) async {
     final doc = await FirebaseFirestore.instance
         .collection('Admin')
@@ -39,7 +38,6 @@ class _AdminMenuPageState extends State<AdminMenuPage> {
     }
     final admin = await getAdmin(user.uid);
     setState(() {
-      _admin = admin;
     });
     print(admin.nama);
   }
